@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey, welcome to my corner of GitHub! 👋<br><br>I'm an **Economics graduate from the University of Delhi**, exploring the world of data analytics and learning how to turn raw data into meaningful insights.<br><br>Here's what you'll find here:<br><br>- 🛠️ **Projects** I’m building or contributing to<br>- 🧠 **Data exploration and analysis** to uncover trends, patterns, and insights<br>- 💻 My learning journey as I strengthen my technical skills and tackle new challenges<br>- 🌱 Continuous learning, experimentation, and a little debugging along the way<br><br>I enjoy breaking down problems, asking questions about data, and discovering what the numbers have to say.<br><br>Open to opportunities where I can turn data into meaningful insights, support better decisions, and continue growing as an analyst. <br><br>**Feel free to explore my projects. Let’s connect, learn, and grow together—one repo at a time.**<br>
 
 
